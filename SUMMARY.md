@@ -19,5 +19,5 @@
 
 ## Git
 
-* [introduction](git/introduction.md)
+* [Introduction](git/introduction.md)
 
