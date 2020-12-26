@@ -6,6 +6,8 @@
 
 #### Control Flow Tools \([https://docs.python.org/3/tutorial/controlflow.html?highlight=loop](https://docs.python.org/3/tutorial/controlflow.html?highlight=loop)\)
 
+##### If statement
+
 ```text
 x = int(input("Please enter an integer: "))
 if x < 0:
@@ -13,6 +15,7 @@ if x < 0:
 else:
     print('larger or equal to 0')
 ```
+##### For loop
 
 ```text
 for i in range(5):
