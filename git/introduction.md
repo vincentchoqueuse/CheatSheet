@@ -23,11 +23,11 @@ All the power of git relies on the use of several web plateform for code sharing
 
 ### Snippests
 
-\#\#\#\# Initialization 
+#### Initialization 
 
 
 
-\#\#\#\# Push your local change to your distant repo
+#### Push your local change to your distant repo
 
 ```text
 $ git add .
