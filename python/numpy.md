@@ -16,7 +16,7 @@ array2 = np.zeros(10) # 10 zeros
 array3 = np.arange(10)
 ```
 
-* [Documentation ones](https://numpy.org/doc/1.19/reference/generated/numpy.ones.html?highlight=ones)
-* [Documentation zeros](https://numpy.org/doc/1.19/reference/generated/numpy.zeros.html?highlight=zeros)
-* [Documentation arange](https://numpy.org/doc/1.19/reference/generated/numpy.arange.html?highlight=arange#numpy.arange)
+* [Documentation ones](https://numpy.org/doc/1.19/reference/generated/numpy.ones.html)
+* [Documentation zeros](https://numpy.org/doc/1.19/reference/generated/numpy.zeros.html)
+* [Documentation arange](https://numpy.org/doc/1.19/reference/generated/numpy.arange.html)
 
