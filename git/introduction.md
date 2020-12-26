@@ -25,7 +25,9 @@ All the power of git relies on the use of several web plateform for code sharing
 
 ### Initialization
 
-### Push your local change to your distant repo
+### Push your local changes to your distant repo
+
+The three following commands show how to push your changes from your local machine to your distance repo.
 
 ```text
 $ git add .
