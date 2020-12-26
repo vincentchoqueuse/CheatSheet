@@ -15,7 +15,7 @@
 
 ## Web development
 
-* [Front End Development](web-development/front-end-development.md)
+* [Bootstrap Library](web-development/front-end-development.md)
 
 ## Git
 

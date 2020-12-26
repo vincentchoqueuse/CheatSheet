@@ -16,14 +16,20 @@ There are several graphical interface to use git, however I recommend my student
 
 * [Pro Git Book](https://github.com/progit/progit2/releases/download/2.1.277/progit.pdf)
 
-All the power of git relies on the use of several web plateform for code sharing, reviewing and more. There are basically two options :
+All the power of git relies on the concept of distant repo that can be used by many users  for code sharing, reviewing and more. Distant repos are managed by a web plateformThere are basically two options :
 
-* [Github](https://github.com) :  The Github plateform allows you to share, distribute your code. By default, free plan can only create public repo but there are also non-free plans for more specific usage \(private repo, ...\).
-* [Gitlab](https://about.gitlab.com/install/) : Gitlab is also quite popular in many tech firms. As compared to Github, Gitlab can be installed on your private server. There is a very high probability that your school or institution has a fully functionnaly git server.
+* [Github](https://github.com) :  The Github plateform allows to share and distribute your code. By default, free plan can only create public repo but there are also non-free plans for more specific usage \(private repo, ...\).
+* [Gitlab](https://about.gitlab.com/install/) : As compared to Github, Gitlab can be installed on a private server. There is a very high probability that your school or institution has a fully functionnaly git server.
 
-## Snippests
+## Code Snippest
 
 ### Initialization
+
+```text
+$ git init
+$ touch README.md > "# My Project"
+$ touch .gitignore
+```
 
 ### Push your local changes to your distant repo
 
