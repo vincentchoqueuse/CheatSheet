@@ -16,7 +16,7 @@ My recommended way to install python on your machine \(whatever your OS\) is to 
  At the end of the installation process, please make sure to add anaconda in `PATH`
 {% endhint %}
 
-#### How to use with Python
+#### How to use Python
 
 There are several options to write your code in Python and to run your script. To write your code, the most simple solution is to use a simple text editor. To run your script, you can use your OS terminal. To simplify the process, I recommend to use an IDE such as VScode from Microsoft and to install the Python Extension.
 

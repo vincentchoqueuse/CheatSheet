@@ -18,7 +18,7 @@ There are several graphical interface to use git, however I recommend my student
 
 All the power of git relies on the use of several web plateform for code sharing, reviewing and more. There are basically two options :
 
-* [Github](https://github.com) :  The Github plateform allows you to share, distribute your code for free \(there are also non-free plan for more specific usage\). 
+* [Github](https://github.com) :  The Github plateform allows you to share, distribute your code. By default, free plan can only create public repo but there are also non-free plans for more specific usage \(private repo, ...\).
 * [Gitlab](https://about.gitlab.com/install/) : Gitlab is also quite popular in many tech firms. As compared to Github, Gitlab can be installed on your private server. There is a very high probability that your school or institution has a fully functionnaly git server.
 
 ### Command Snippests
