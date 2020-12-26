@@ -1,6 +1,6 @@
 # Untitled
 
-Inline latex $$\alpha$$and 
+Inline latex $$\alpha$$ and $$\beta$$ test
 
 ```text
 $$a = b$$
