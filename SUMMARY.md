@@ -4,7 +4,7 @@
 
 ## Python
 
-* [Introduction](python/untitled.md)
+* [Introduction](python/introduction.md)
 
 ## Latex
 
