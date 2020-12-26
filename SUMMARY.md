@@ -5,6 +5,9 @@
 ## Python
 
 * [Introduction](python/introduction.md)
+* [Numpy](python/numpy.md)
+* [Scipy](python/scipy.md)
+* [Matplotlib](python/matplotlib.md)
 
 ## Latex
 

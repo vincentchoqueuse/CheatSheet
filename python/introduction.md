@@ -4,7 +4,7 @@
 
 * [https://docs.python.org/3/](https://docs.python.org/3/)
 
-### Control Flow Tools 
+### Control Flow Tools
 
 * [Documentation](https://docs.python.org/3/tutorial/controlflow.html)
 
