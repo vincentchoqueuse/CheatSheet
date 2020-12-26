@@ -2,13 +2,15 @@
 
 * Documentation : [Numpy](https://numpy.org/doc/1.19/)
 
-### Import
+![](../.gitbook/assets/numpy.svg)
+
+## Import
 
 ```text
 import numpy as np
 ```
 
-### Common Arrays Creation
+## Common Arrays Creation
 
 ```text
 array1 = np.ones(10) #10 ones
