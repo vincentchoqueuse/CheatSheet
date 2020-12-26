@@ -21,16 +21,22 @@ All the power of git relies on the use of several web plateform for code sharing
 * [Github](https://github.com) :  The Github plateform allows you to share, distribute your code. By default, free plan can only create public repo but there are also non-free plans for more specific usage \(private repo, ...\).
 * [Gitlab](https://about.gitlab.com/install/) : Gitlab is also quite popular in many tech firms. As compared to Github, Gitlab can be installed on your private server. There is a very high probability that your school or institution has a fully functionnaly git server.
 
-### Command Snippests
+### Snippests
+
+\#\#\#\# Initialization 
+
+
+
+\#\#\#\# Push your local change to your distant repo
 
 ```text
 $ git add .
-$ git commit -m "my first commit"
+$ git commit -m "a message explaining your modification"
 $ git push -u origin master
 ```
 
 {% hint style="info" %}
-For your projects, I recomment to use a `.gitignore` file to avoid to keep track of non essential files. The content of this file depends on the nature of your project.
+For your projects, I always recommend my student to use a `.gitignore` file to only keep track of their essential files. The content of the gitignore file depends on the programming language used in your project.
 
 * List of [commonly used gitignore files](https://github.com/github/gitignore)
 {% endhint %}
