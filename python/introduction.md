@@ -4,7 +4,9 @@
 
 * [https://docs.python.org/3/](https://docs.python.org/3/)
 
-### Control Flow Tools \([https://docs.python.org/3/tutorial/controlflow.html?highlight=loop](https://docs.python.org/3/tutorial/controlflow.html?highlight=loop)\)
+### Control Flow Tools 
+
+* [Documentation](https://docs.python.org/3/tutorial/controlflow.html)
 
 #### If statement
 
