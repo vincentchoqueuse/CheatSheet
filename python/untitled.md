@@ -14,7 +14,10 @@ else:
     print('larger or equal to 0')
 ```
 
-
+```text
+for i in range(5):
+    print(i)
+```
 
 
 
