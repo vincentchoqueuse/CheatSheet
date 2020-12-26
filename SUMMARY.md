@@ -17,7 +17,7 @@
 
 * [Bootstrap Library](web-development/front-end-development.md)
 
-## Git
+## Others
 
-* [Introduction](git/introduction.md)
+* [Git](others/git.md)
 

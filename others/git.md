@@ -1,4 +1,4 @@
-# Introduction
+# Git
 
 ## Why Git
 
@@ -27,7 +27,7 @@ All the power of git relies on the concept of distant repo that can be used by m
 
 ```text
 $ git init
-$ touch README.md > "# My Project"
+$ touch README.md
 $ touch .gitignore
 ```
 
