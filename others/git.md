@@ -23,6 +23,10 @@ All the power of git relies on the concept of distant repo that can be used by m
 
 ## Code Snippest
 
+
+
+
+
 ### Initialization
 
 ```text
@@ -44,8 +48,4 @@ $ git add .
 $ git commit -m "a message explaining your modification"
 $ git push -u origin master
 ```
-
-{% hint style="info" %}
-* List of [commonly used gitignore files](https://github.com/github/gitignore)
-{% endhint %}
 
