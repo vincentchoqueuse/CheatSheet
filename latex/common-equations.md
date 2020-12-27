@@ -138,11 +138,11 @@ c_n = \frac{1}{T_0}\int_{[T_0]}x(t)e^{-2j\pi nf_0 t}dt
 * Laplace Transform :
 
 $$
-X(s)=\int_{0}^{\infty}x(t)e^{-st}ds
+X(s)=\int_{0}^{\infty}x(t)e^{-st}dt
 $$
 
 ```text
-X(s)=\int_{0}^{\infty}x(t)e^{-st}ds
+X(s)=\int_{0}^{\infty}x(t)e^{-st}dt
 ```
 
 * Fourier Tranform :
