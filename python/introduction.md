@@ -25,7 +25,7 @@ There are several options to write your code in Python and to run your script. T
 
 For teaching, I also recommend my students to use Jupyter Notebook. This web environment allows to add text, equations, python code, figures in a single file. Note that Jupyter is included in the Anaconda Python distribution.
 
-## Code Snippest
+## Code Snippets
 
 * [Documentation](https://docs.python.org/3/tutorial/controlflow.html)
 

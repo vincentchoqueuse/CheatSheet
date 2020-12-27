@@ -2,7 +2,7 @@
 
 * [Bootstrap Documentation](https://getbootstrap.com)
 
-## Code Snippest
+## Code Snippets
 
 ### Bootstrap Starter Template
 
