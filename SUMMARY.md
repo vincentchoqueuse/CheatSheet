@@ -12,6 +12,8 @@
 ## Latex
 
 * [Introduction](latex/introduction.md)
+* [Common Equations](latex/common-equations.md)
+* [Tikz](latex/tikz.md)
 
 ## Web development
 

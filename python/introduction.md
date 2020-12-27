@@ -1,14 +1,8 @@
 # Introduction
 
-* [https://docs.python.org/3/](https://docs.python.org/3/)
-
 ## Why Python
 
-<div>
-  <img src="../.gitbook/assets/python.png" style="width:200px">
-</div>
-
-
+![](../.gitbook/assets/python.png)
 
 Python is a multipurpose interpreted language that provides many packages for scripting, plotting, data science, web developement, and more. Python has a beautiful syntax and is easy to learn. This language has become extremely popular in one decade. Python is usually considered as a first-choice language for many programmers. Many universities have decided to use the Python language for programming courses.
 

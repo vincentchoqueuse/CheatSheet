@@ -2,15 +2,17 @@
 
 ## Why Latex
 
-<div>
-  <img src="../.gitbook/assets/latex.png" style="width:200px">
-</div>
+![](../.gitbook/assets/latex.png)
 
 Latex is a software system for document preparation. It can be used to create long document \(such as PhD Thesis, report, and article\) and provides tools for the management of tables of contents, table of figure, bibliography, and more. Latex also provide a wonderful syntax for equation writing.
 
 ### How to Install Latex
 
 * [Install Latex](https://www.latex-project.org/get/)
+
+### How to Use Latex
+
+* [The not so short introduction to Latex](https://tex.loria.fr/general/lshort2e.pdf). The not so short introduction is a good ressource to start with. Section 3.9 contains the list of available mathematical symbols.
 
 ## Code Snippets
 
@@ -37,7 +39,7 @@ First document.
 \end{document}
 ```
 
-### Side By Side Figure
+### Figures
 
 * Packages to include : 
 
@@ -46,7 +48,7 @@ First document.
 \usepackage{subcaption}
 ```
 
-* Two figures
+* Side by Side figures
 
 ```text
 \begin{subfigure}{.5\textwidth}
@@ -64,5 +66,18 @@ First document.
 \caption{A figure with two subfigures}
 \label{fig:test}
 \end{figure}
+```
+
+### Tables
+
+```text
+\begin{table}{cccc}
+\hline
+ & & & \\
+\hline
+ & & & \\
+ & & & \\
+\hline
+\end{table}
 ```
 
