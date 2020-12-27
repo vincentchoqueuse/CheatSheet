@@ -1,4 +1,4 @@
-# Common Equations
+# Equations
 
 This Page contains several Latex code commonly used in my Latex documents. These codes are directly to my teaching courses \(signal processing, control engineering, ...\)
 
