@@ -5,7 +5,7 @@
 ## Why Python
 
 <div>
-  <img src="../.gitbook/assets/python.pngg" style="width:200px">
+  <img src="../.gitbook/assets/python.png" style="width:200px">
 </div>
 
 
