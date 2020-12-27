@@ -4,7 +4,11 @@
 
 ## Why Python
 
-![](../.gitbook/assets/python.png)
+<div>
+  <img src="../.gitbook/assets/python.pngg" style="width:200px">
+</div>
+
+
 
 Python is a multipurpose interpreted language that provides many packages for scripting, plotting, data science, web developement, and more. Python has a beautiful syntax and is easy to learn. This language has become extremely popular in one decade. Python is usually considered as a first-choice language for many programmers. Many universities have decided to use the Python language for programming courses.
 
@@ -25,7 +29,7 @@ There are several options to write your code in Python and to run your script. T
 * [Install VScode](https://code.visualstudio.com)
 * [Install Python Extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 
-For teaching, I also recommend my students to use Jupyter Notebook. This web environment allows to add text, equations, python code, figures in a single file. Note that Jupyter is included in the Anaconda Python distribution.
+For particular homeworks, I also recommend my students to use Jupyter Notebook. This web environment allows to add text, equations, python code, figures in a single file. Note that Jupyter is included in the Anaconda Python distribution.
 
 ## Code Snippets
 
