@@ -16,7 +16,7 @@ There are several graphical interface to use git, however I recommend my student
 
 * [Pro Git Book](https://github.com/progit/progit2/releases/download/2.1.277/progit.pdf)
 
-All the power of git relies on the concept of distant repo that can be used by many users  for code sharing, reviewing and more. Distant repos are managed by a web plateformThere are basically two options :
+All the power of git relies on the concept of distant repo that can be used by many users for code sharing, reviewing and more. Distant repos are managed by a web plateformThere are basically two options :
 
 * [Github](https://github.com) :  The Github plateform allows to share and distribute your code. By default, free plan can only create public repo but there are also non-free plans for more specific usage \(private repo, ...\).
 * [Gitlab](https://about.gitlab.com/install/) : As compared to Github, Gitlab can be installed on a private server. There is a very high probability that your school or institution has a fully functionnaly git server.
@@ -35,7 +35,6 @@ I always recommend my students to use a `.gitignore` file to only keep track of 
 
 * [commonly used gitignore files](https://github.com/github/gitignore)
 
-
 ### Push your local changes to your distant repo
 
 The three following commands show how to push your changes from your local machine to your `master` branch of your distance repo.
@@ -47,8 +46,6 @@ $ git push -u origin master
 ```
 
 {% hint style="info" %}
-
-
 * List of [commonly used gitignore files](https://github.com/github/gitignore)
 {% endhint %}
 

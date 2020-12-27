@@ -2,7 +2,7 @@
 
 ## Why Latex
 
-Latex is a software system for document preparation. It can be used to create long document (such as PhD Thesis, report, and article) and provides tools for the management of tables of contents, table of figure, bibliography, and more. Latex also provide a wonderful syntax for equation writing. 
+Latex is a software system for document preparation. It can be used to create long document \(such as PhD Thesis, report, and article\) and provides tools for the management of tables of contents, table of figure, bibliography, and more. Latex also provide a wonderful syntax for equation writing.
 
 ### How to Install Latex
 
@@ -10,9 +10,9 @@ Latex is a software system for document preparation. It can be used to create lo
 
 ## Code Snippets
 
-### Create a document
+#### Create a document
 
-```
+```text
 \documentclass{article}
 
 \begin{document}
@@ -22,7 +22,7 @@ First document.
 
 For french documents, I need to import specifc packages to deal with particular characters.
 
-```
+```text
 \documentclass[french]{article}
 \usepackage{lmodern}
 \usepackage[T1]{fontenc}
@@ -33,18 +33,18 @@ First document.
 \end{document}
 ```
 
-### Side By Side Figure
+#### Side By Side Figure
 
 * Packages to include : 
 
-```
+```text
 \usepackage{caption}
 \usepackage{subcaption}
 ```
 
 * Two figures
 
-```
+```text
 \begin{subfigure}{.5\textwidth}
   \centering
   \includegraphics[width=.4\linewidth]{image1}
@@ -61,3 +61,4 @@ First document.
 \label{fig:test}
 \end{figure}
 ```
+

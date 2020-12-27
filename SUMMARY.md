@@ -11,11 +11,11 @@
 
 ## Latex
 
-* [Untitled](latex/untitled.md)
+* [Introduction](latex/introduction.md)
 
 ## Web development
 
-* [Bootstrap Library](web-development/front-end-development.md)
+* [Bootstrap Library](web-development/bootstrap-library.md)
 
 ## Others
 

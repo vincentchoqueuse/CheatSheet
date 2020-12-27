@@ -13,7 +13,7 @@ My recommended way to install python on your machine \(whatever your OS\) is to 
 * [Install Anaconda](https://www.anaconda.com/products/individual#Downloads)
 
 {% hint style="info" %}
- At the end of the installation process, please make sure to add anaconda in `PATH`
+At the end of the installation process, please make sure to add anaconda in `PATH`
 {% endhint %}
 
 ### How to use Python
