@@ -31,9 +31,14 @@ $ touch README.md
 $ touch .gitignore
 ```
 
+I always recommend my students to use a `.gitignore` file to only keep track of their essential files. The content of the gitignore file depends on the programming language used in your project. A list of commonly used .gitigore file can be found below
+
+* [commonly used gitignore files](https://github.com/github/gitignore)
+
+
 ### Push your local changes to your distant repo
 
-The three following commands show how to push your changes from your local machine to your distance repo.
+The three following commands show how to push your changes from your local machine to your `master` branch of your distance repo.
 
 ```text
 $ git add .
@@ -42,7 +47,7 @@ $ git push -u origin master
 ```
 
 {% hint style="info" %}
-For your projects, I always recommend my student to use a `.gitignore` file to only keep track of their essential files. The content of the gitignore file depends on the programming language used in your project.
+
 
 * List of [commonly used gitignore files](https://github.com/github/gitignore)
 {% endhint %}
