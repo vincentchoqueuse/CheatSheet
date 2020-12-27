@@ -26,20 +26,17 @@ First document.
 
 For french documents, I need to import specifc packages to deal with particular characters.
 
+* Package Requirement for french document
+
 ```text
 \documentclass[french]{article}
-\usepackage{lmodern}
 \usepackage[T1]{fontenc}
 \usepackage{babel}
-
-\begin{document}
-First document.
-\end{document}
 ```
 
 ### Figures
 
-* Packages to include : 
+* Package Requirement 
 
 ```text
 \usepackage{caption}
