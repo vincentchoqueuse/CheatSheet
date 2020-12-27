@@ -88,6 +88,16 @@ x(t)=\sum_{n=-\infty}^{\infty}c_n e^{2j\pi nf_0 t}dt
 
 ### Common Transforms
 
+* Fourier Coefficients
+
+$$
+c_n = \frac{1}{T_0}\int_{[T_0]}x(t)e^{-2j\pi nf_0 t}dt
+$$
+
+```text
+c_n = \frac{1}{T_0}\int_{[T_0]}x(t)e^{-2j\pi nf_0 t}dt
+```
+
 * Laplace Transform :
 
 $$
