@@ -2,6 +2,8 @@
 
 ## Why Latex
 
+![](../.gitbook/assets/latex.png)
+
 Latex is a software system for document preparation. It can be used to create long document \(such as PhD Thesis, report, and article\) and provides tools for the management of tables of contents, table of figure, bibliography, and more. Latex also provide a wonderful syntax for equation writing.
 
 ### How to Install Latex

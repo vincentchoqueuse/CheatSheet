@@ -23,10 +23,6 @@ All the power of git relies on the concept of distant repo that can be used by m
 
 ## Code Snippest
 
-
-
-
-
 ### Initialization
 
 ```text
