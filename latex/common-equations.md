@@ -26,7 +26,30 @@ $$
 \sin(\theta)=\frac{1}{2j}\left(e^{j\theta}-e^{-j\theta}\right)
 ```
 
-## Signal Processing
+### Linear Algebra
+
+* Pseudo inverse
+
+$$
+\mathbf{A}^{\dagger}=\left(\mathbf{A}^T\mathbf{A}\right)^{-1}\mathbf{A}^T
+$$
+
+```text
+\mathbf{A}^{\dagger}=\left(\mathbf{A}^T\mathbf{A}\right)^{-1}\mathbf{A}^T
+```
+
+* Orthogonal projector
+
+$$
+\mathbf{P}_\mathbf{A}^{\perp}=\mathbf{I}-\mathbf{A}\left(\mathbf{A}^T\mathbf{A}\right)^{-1}\mathbf{A}^T
+$$
+
+* Matrix product
+  * Matrix mulitplication  $$\times$$: `\times`
+  * Kronecker product $$\otimes$$ : `\otimes`
+  * Hadamard product $$\odot$$: `\odot`
+
+## Electrical Engineering
 
 ### Continuous Signals
 
@@ -76,6 +99,20 @@ $$
 \delta_{T_0}(t)=\sum_{n=-\infty}^{\infty}\delta(t-nT_0)
 ```
 
+* Rectangular window
+
+$$
+\Pi_L(t)=\left\{\begin{array}{cl}1&\text{ if }|t|\le \frac{L}{2},\\
+0&\text{elsewhere}.\end{array}\right.
+$$
+
+```text
+\Pi_L(t)=\left\{\begin{array}{cl}
+1&\text{ if }|t|\le \frac{L}{2},\\
+0&\text{elsewhere}.
+\end{array}\right.
+```
+
 * Periodic Signal Fourier Décomposition
 
 $$
@@ -121,11 +158,11 @@ X(f)=\int_{-\infty}^{\infty}x(t)e^{-2j\pi ft}dt
 * Z transform :
 
 $$
-H(z)=\sum_{n=0}^{\infty} x[n]z^{-n}
+X(z)=\sum_{n=0}^{\infty} x[n]z^{-n}
 $$
 
 ```text
-H(z)=\sum_{n=0}^{\infty} x[n]z^{-n}
+X(z)=\sum_{n=0}^{\infty} x[n]z^{-n}
 ```
 
 ### Transfer Functions
