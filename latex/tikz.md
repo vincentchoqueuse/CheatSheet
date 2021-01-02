@@ -28,7 +28,7 @@ I usually save my data from python using Pandas. The data are then saved into th
 \end{figure}
 ```
 
-### Electronic Circuit
+## Electronic Circuits
 
 #### Package Requirement
 
@@ -37,9 +37,9 @@ I usually save my data from python using Pandas. The data are then saved into th
 \usepackage{circuitikz}
 ```
 
-#### Examples
+### Sallen Key : Low Pass
 
-* Sallen Key : Low Pass
+![](../.gitbook/assets/sk_lp.svg)
 
 ```text
 \begin{tikzpicture}
@@ -61,7 +61,9 @@ I usually save my data from python using Pandas. The data are then saved into th
 \end{tikzpicture}
 ```
 
-* MFB : Low Pass
+### MFB : Low Pass
+
+![](../.gitbook/assets/mfb_lp.svg)
 
 ```text
 \begin{tikzpicture}
@@ -81,7 +83,7 @@ I usually save my data from python using Pandas. The data are then saved into th
 \end{tikzpicture}
 ```
 
-#### 
+### Common Circuits : 
 
-#### Common Circuits : [https://github.com/vincentchoqueuse/analog\_circuits\_tikz](https://github.com/vincentchoqueuse/analog_circuits_tikz)
+A list of common analog circuits are available here: [https://github.com/vincentchoqueuse/analog\_circuits\_tikz](https://github.com/vincentchoqueuse/analog_circuits_tikz)
 
