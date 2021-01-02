@@ -33,7 +33,6 @@ I usually save my data from python using Pandas. The data are then saved into th
 #### Package Requirement
 
 ```text
-\usepackage{tikz}
 \usepackage{circuitikz}
 ```
 
