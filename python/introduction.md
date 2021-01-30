@@ -23,24 +23,7 @@ There are several options to write your code in Python and to run your script. T
 
 For particular homeworks, I also recommend my students to use Jupyter Notebook. This web environment allows to add text, equations, python code, figures in a single file. Note that Jupyter is included in the Anaconda Python distribution.
 
-## Code Snippets
+## Official Python Documentation 
 
 * [Documentation](https://docs.python.org/3/tutorial/controlflow.html)
-
-#### If statement
-
-```text
-x = int(input("Please enter an integer: "))
-if x < 0:
-    print('lower than 0')
-else:
-    print('larger or equal to 0')
-```
-
-#### For loop
-
-```text
-for i in range(5):
-    print(i)
-```
 
