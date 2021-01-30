@@ -23,6 +23,18 @@ There are several options to write your code in Python and to run your script. T
 
 For particular homeworks, I also recommend my students to use Jupyter Notebook. This web environment allows to add text, equations, python code, figures in a single file. Note that Jupyter is included in the Anaconda Python distribution.
 
+## Why Jupyter Notebook
+
+For particular homeworks, I also recommend my students to use Jupyter Notebook. This web environment allows to add text, equations, python code, figures in a single file. Jupyter is included in the Anaconda Python distribution. To launch Jupyter, you simply have to start the Anaconda navigator
+
+
+
+[https://www.youtube.com/embed/NnsrRlEJZDc](https://www.youtube.com/embed/NnsrRlEJZDc)
+
+
+
+
+
 ## Official Python Documentation 
 
 * [Documentation](https://docs.python.org/3/tutorial/controlflow.html)
